@@ -1,0 +1,2 @@
+# Unexpected Loop Termination Bug in JavaScript
+This repository demonstrates a common JavaScript bug involving unexpected loop termination. The `bug.js` file contains code with a `while` loop that terminates prematurely due to an incorrectly placed or unexpected `break` statement. The `bugSolution.js` file provides a corrected version of the code, ensuring the loop completes its intended iterations.
